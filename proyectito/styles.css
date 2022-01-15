@@ -1,0 +1,56 @@
+body{
+    background-color: beige;
+}
+
+
+
+
+
+
+
+.text.center{
+    margin-top: 50px;
+
+    font-family: 'Bebas Neue', cursive;
+}
+
+.card-1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: burlywood;
+    box-shadow: 4px 8px 16px rgba(0, 27, 111, 0.2);
+    border-radius: 20px;
+   
+}
+.card-2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: palegreen;
+    box-shadow: 4px 8px 16px rgba(0, 27, 111, 0.2);
+    border-radius: 20px;
+}
+
+.card-3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: lightskyblue;
+    box-shadow: 4px 8px 16px rgba(0, 27, 111, 0.2);
+    border-radius: 20px;
+    
+}
+
+
+
+.btn-primary {
+    background-color:gray;
+    border: gray;
+    text-align: center;
+    
+}
+
+.color-text{
+    text-decoration: none;
+    color: black;
+}
+
+
